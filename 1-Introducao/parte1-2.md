@@ -1,6 +1,6 @@
 # Isso é HTML5?
 
-*Esta seção é não normativa.*
+*Esta seção é informativa.*
 
 Resumindo: Sim.
 
