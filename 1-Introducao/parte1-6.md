@@ -47,3 +47,37 @@ formulários, foram apresentados à W3C conjuntamente pela Mozilla e pela Opera.
 foi rejeitada sob a justificativa de que conflitava com a direção anteriormente escolhida para a
 evolução da web; a equipe e os membros da W3C votaram por continuar desenvolvendo
 substitutos baseados em XML.
+
+Pouco tempo depois, a Apple, a Mozilla e a Opera anunciaram conjuntamente a intenção de
+continuar trabalhando no esforço sob o âmbito de um novo fórum chamado **WHATWG**.
+Uma lista de discussão pública foi criada e o rascunho foi movido para o site do WHATWG.
+Posteriormente, os direitos autorais foram alterados para serem de propriedade conjunta dos
+três fornecedores e para permitir a reutilização da especificação.
+
+O **WHATWG** baseou-se em vários princípios fundamentais, em particular: que as tecnologias
+precisam ser **compatíveis com versões anteriores**; que as especificações e as
+implementações devem coincidir, mesmo que isso signifique alterar a especificação em vez
+das implementações; e que as especificações precisam ser detalhadas o suficiente para que
+as implementações alcancem uma **interoperabilidade completa** sem a necessidade de
+engenharia reversa entre si.
+
+O último requisito, em particular, exigia que o escopo da especificação do HTML5 incluísse o
+que havia sido previamente especificado em três documentos distintos: HTML4, XHTML1 e
+DOM2 HTML. Isso também significava incluir significativamente mais detalhes do que o que
+era considerado a norma anteriormente.
+
+Em 2006, o W3C demonstrou interesse em participar do desenvolvimento do HTML5 e, em
+2007, formou um grupo de trabalho com a missão de colaborar com o **WHATWG** no
+desenvolvimento da especificação do HTML5. Apple, Mozilla e Opera permitiram que o W3C
+publicasse a especificação sob os direitos autorais do W3C, mantendo, ao mesmo tempo, uma
+versão com a licença menos restritiva no site do WHATWG.
+
+Durante vários anos, ambos os grupos trabalharam juntos. Em 2011, no entanto, os grupos
+chegaram à conclusão de que tinham objetivos diferentes: o W3C queria publicar uma versão
+"finalizada" do "HTML5", enquanto o WHATWG queria continuar trabalhando em um "Living
+Standard" (Padrão Vivo) para o HTML, mantendo a especificação continuamente em vez de
+congelá-la em um estado com problemas conhecidos, e adicionando novos recursos conforme
+necessário para evoluir a plataforma.
+
+Em 2019, o **WHATWG** e o **W3C** assinaram um acordo para colaborar em uma única versão do
+HTML daqui em diante: este documento.
